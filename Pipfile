@@ -8,7 +8,9 @@ ipykernel = "*"
 pandas = "*"
 numpy = "*"
 keras = "*"
-tensorflow = "*"
+tensorflow = "==2.10"
+opencv-python = "*"
+matplotlib = "*"
 
 [dev-packages]
 
