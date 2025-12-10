@@ -11,6 +11,7 @@ keras = "*"
 tensorflow = "==2.10"
 opencv-python = "*"
 matplotlib = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
